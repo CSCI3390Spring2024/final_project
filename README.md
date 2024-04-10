@@ -77,6 +77,6 @@ Delete your project's current **README.md** file (the one you're reading right n
 
 ## Early submission bonus
 The deadline of the final project is on 5/4 (Friday) 11:59PM. 
-**If you submit by 5/3 (Thu) 11:59PM, you will get 5% boost on the final project grade. **
+**If you submit by 5/3 (Thu) 11:59PM, you will get 5% boost on the final project grade.**
 The submission time is calculated from the last commit in the Git log.
 **No extension beyond 5/4 11:59PM will be granted, even if you have unused late days.**
